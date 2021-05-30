@@ -35,7 +35,8 @@
 
 <h2 id="-layout">🎨 Layout </h2>
 <p align="center" style="display: flex; align-itens="flex-start"> 
-
+  <img src="https://github.com/netosouza22/clone-whatsapp-css/blob/master/cloneWhatsappCSS/whatsapp-clone.jpg" alt="CSS clone whatsapp image">
+</p>
                                                                                                                         
 </div>
 
