@@ -1,13 +1,13 @@
-<h1 align="center">⚡+🎮 Memory Game Pokemon </h1>
+<h1 align="center">Clone Whatsapp only using CSS </h1>
 
 <p align="center" style="font-weight: bold"> this project was made for fun and learning.</p> 
 
 <p align="center">
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/netosouza22/memory-game-pokemon" >
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/netosouza22/clone-whatsapp-css" >
   
-  <img alt="Last Comit" src="https://img.shields.io/github/last-commit/netosouza22/memory-game-pokemon/master" >
+  <img alt="Last Comit" src="https://img.shields.io/github/last-commit/netosouza22/clone-whatsapp-css/master" >
   
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/netosouza22/memory-game-pokemon" >
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/netosouza22/clone-whatsapp-css" >
   
   <a href="https://www.linkedin.com/in/netosousa/">
     <img alt="Made by - Neto Sousa" src="https://img.shields.io/badge/Made_By-Neto_Sousa-%230000FF" >
@@ -30,8 +30,7 @@
 <h2 id="-about">🤷‍ About </h2>
   <p> 
       This project was made only using HTML and CSS, I was trying improve my ablity in both tecnologies and the way I used was clonning some interface, the whatsapp
-      was my chosed for me, because it is a complex interface with several "boxes", this project has only CSS and HTML built 
-      without interaction with JS or any other language.
+      was my chosed for me, because it is a complex interface with several "boxes", this project has only CSS and HTML built without interaction with JS or any other       language. Understand this project like the begin of a person in the front end.
   </p>
 
 <h2 id="-layout">🎨 Layout </h2>
