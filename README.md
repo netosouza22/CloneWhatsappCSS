@@ -45,7 +45,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/netosouza22/memory-game-pokemon.git
+$ git clone https://github.com/netosouza22/clone-whatsapp-css.git
 ```
 
 <h2 id="-tecnologies">⚙️ Tecnologies </h2>
